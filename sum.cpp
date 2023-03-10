@@ -4,7 +4,7 @@ int main()
 {
     int a = 5;
     int b = 6;
-    int c = a + b;
-    cout << "Sum is :" << c;
+    int sum = a + b;
+    cout << "Sum is :" << sum;
     return 0;
 }
